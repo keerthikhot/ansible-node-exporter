@@ -122,6 +122,9 @@ Upload: roles/grafana/files/dashboards/node_exporter_full.json
 <img width="1469" height="629" alt="Screenshot 2025-11-23 at 5 02 45 PM" src="https://github.com/user-attachments/assets/d288ce2d-9d5b-40d7-8c0e-b8c46b60dc30" />
 <img width="1468" height="795" alt="Screenshot 2025-11-23 at 5 02 55 PM" src="https://github.com/user-attachments/assets/a42b0a28-fdf9-420d-82bd-a5667de2fa39" />
 <img width="1449" height="467" alt="Screenshot 2025-11-23 at 9 51 36 PM" src="https://github.com/user-attachments/assets/8375bf13-d66b-46c0-b0e1-e1a157dea19b" />
+<img width="1448" height="841" alt="Screenshot 2025-11-23 at 11 49 50 PM" src="https://github.com/user-attachments/assets/87f12075-a176-4a58-94c5-23f39f298a81" />
+<img width="1468" height="844" alt="Screenshot 2025-11-23 at 11 50 48 PM" src="https://github.com/user-attachments/assets/9dbd48e0-5e87-40c3-ace2-765afe6f2418" />
+
 
 
 
