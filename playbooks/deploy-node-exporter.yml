@@ -1,0 +1,5 @@
+- hosts: monitoring_targets
+  become: yes
+  roles:
+    - node_exporter
+
